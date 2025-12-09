@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**aliyasyeddd/aliyasyeddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Aliya Mahaboob  
+**FrontEnd Developer** · she/her  
 
-Here are some ideas to get you started:
+Hey there! I’m a curious coder who loves pizza and turning creative ideas into unique projects. 🍕💻✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 I’m currently learning  
+- **AngularJS**  
+- **Three.js**  
+- **TypeScript**
+
+---
+
+### 🔧 Technologies & Tools  
+- HTML · CSS · JavaScript  
+- React  
+- Git & GitHub  
+
+---
+
+### 📫 Connect with me  
+- GitHub: [@aliyasyeddd](https://github.com/aliyasyeddd)
+
+
