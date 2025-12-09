@@ -2,9 +2,9 @@
 A curious coder who loves pizza and turning creative ideas into unique projects. 🍕💻✨  
 
 ### 🌱 I’m currently learning  
-- **AngularJS**  
-- **Three.js**  
-- **TypeScript**
+- AngularJS 
+- Three.js  
+- TypeScript
 
 📫How to reach me: [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=flat&logoColor=white)](mailto:mahaboobaliya03@gmail.com)
 
