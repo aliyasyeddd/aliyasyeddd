@@ -10,7 +10,7 @@ A curious coder who loves pizza and turning creative ideas into unique projects.
   <a href="mailto:mahaboobaliya03@gmail.com">
     <img 
       src="https://i.pinimg.com/736x/f2/b2/20/f2b220d2ce55336b3eccc6cb57c2c1a5.jpg" 
-      width="30" 
+      width="38" 
       alt="Email Icon"
     />
   </a>
