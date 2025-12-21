@@ -3,8 +3,7 @@ A curious coder who loves pizza and turning creative ideas into unique projects.
 
 ### 🌱 I’m currently learning 
 - TypeScript
-- AngularJS 
-- Three.js  
+- AngularJS  
 
 📧How to reach me: mahaboobaliya03@gmail.com 
 
