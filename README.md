@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Aliya   
-A curious coder who loves pizza and turning creative ideas into unique projects. 🍕💻✨  
+A curious frontend developer who enjoys turning creative ideas into clean, responsive, and user-focused interfaces. 💻✨ 
 
 ### 🌱 I’m currently learning 
 - TypeScript
