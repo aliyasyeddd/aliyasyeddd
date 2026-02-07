@@ -3,7 +3,6 @@ A curious frontend developer who enjoys turning creative ideas into clean, respo
 
 ### 🌱 I’m currently learning 
 - TypeScript
-- AngularJS
 - ThreeJS  
 
 📧How to reach me: mahaboobaliya03@gmail.com 
