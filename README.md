@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Aliya   
-A curious frontend developer who enjoys turning creative ideas into clean, responsive, and user-focused interfaces. 💻✨ 
+A curious FullStack developer who enjoys turning creative ideas into clean, responsive, and user-focused interfaces. 💻✨ 
 
 ### 🌱 I’m currently learning 
 - TypeScript
