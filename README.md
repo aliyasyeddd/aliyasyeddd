@@ -3,7 +3,7 @@ A curious FullStack developer who enjoys turning creative ideas into clean, resp
 
 ### 🌱 I’m currently learning 
 - TypeScript
-- Node js  
+- Next js  
 
 📧How to reach me: mahaboobaliya03@gmail.com 
 
