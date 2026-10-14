@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/garden.gif" alt="Garden banner" width="100%" />
+</p>
+
 <h2>Hi there , I'm Aliya  (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h2>
 
 A curious full-stack developer who enjoys turning creative ideas into clean, responsive, user-focused interfaces.
