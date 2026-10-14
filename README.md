@@ -1,4 +1,4 @@
-<h2>Hi there , I'm Aliya 🌿</h2>
+<h2>Hi there , I'm Aliya (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h2>
 
 A curious full-stack developer who enjoys turning creative ideas into clean, responsive, user-focused interfaces.
 
