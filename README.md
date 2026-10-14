@@ -15,7 +15,7 @@ A curious full-stack developer who enjoys turning creative ideas into clean, res
 
 <b>Backend:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="absmiddle" src="https://img.shields.io/badge/-Node.js-B5E3B0?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=black" alt="Node.js" /> <img align="absmiddle" src="https://img.shields.io/badge/-Express-CFCFCF?style=for-the-badge&amp;logo=express&amp;logoColor=black" alt="Express" /> <img align="absmiddle" src="https://img.shields.io/badge/-MongoDB-A9DCAC?style=for-the-badge&amp;logo=mongodb&amp;logoColor=black" alt="MongoDB" /> <img align="absmiddle" src="https://img.shields.io/badge/-MySQL-A9C9DE?style=for-the-badge&amp;logo=mysql&amp;logoColor=black" alt="MySQL" /> <img align="absmiddle" src="https://img.shields.io/badge/-Supabase-B5EBD1?style=for-the-badge&amp;logo=supabase&amp;logoColor=black" alt="Supabase" />
 
-<b>Tools:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img align="absmiddle" src="https://img.shields.io/badge/-Blender-FFCF9E?style=for-the-badge&amp;logo=blender&amp;logoColor=black" alt="Blender" /> <img align="absmiddle" src="https://img.shields.io/badge/-Figma-FFB3A1?style=for-the-badge&amp;logo=figma&amp;logoColor=black" alt="Figma" />
+<b>Tools:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img align="absmiddle" src="https://img.shields.io/badge/-Blender-FFCF9E?style=for-the-badge&amp;logo=blender&amp;logoColor=black" alt="Blender" /> <img align="absmiddle" src="https://img.shields.io/badge/-Figma-FFB3A1?style=for-the-badge&amp;logo=figma&amp;logoColor=black" alt="Figma" />
 
 
 ## 💌 Connect with me! 
