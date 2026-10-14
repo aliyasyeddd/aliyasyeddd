@@ -2,43 +2,20 @@
 
 A curious full-stack developer who enjoys turning creative ideas into clean, responsive, user-focused interfaces.
 
-### 🌱 About Me
+## 🌱 About Me
 - 💻 Full-stack developer, working across frontend and backend
 - 🎨 I use Figma and Blender for the creative side
 - 🌱 Currently learning C#
 
-### Tech Stack
+## Tech Stack
 
-**Languages**
+<b>Languages:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="absmiddle" src="https://img.shields.io/badge/-TypeScript-A9C8F0?style=for-the-badge&amp;logo=typescript&amp;logoColor=black" alt="TypeScript" /> <img align="absmiddle" src="https://img.shields.io/badge/-JavaScript-FFF3A3?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" /> <img align="absmiddle" src="https://img.shields.io/badge/-Python-B3CFEA?style=for-the-badge&amp;logo=python&amp;logoColor=black" alt="Python" /> <img align="absmiddle" src="https://img.shields.io/badge/-C%23-D4B8E0?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDAwIiBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNkg5NHYtNWgzLjVsLjktNEg5NHYtNWg1LjNsMS4yLTZoNC45bC0xLjIgNmgzLjhsMS4yLTZoNC44bC0xLjIgNmgyLjJ2NXptLTEyLjcgNGgzLjhsLjktNGgtMy44eiIvPjwvc3ZnPg%3D%3D" alt="C#" />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-A9C8F0?style=for-the-badge&logo=typescript&logoColor=black&labelColor=A9C8F0)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF3A3?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFF3A3)
-![Python](https://img.shields.io/badge/Python-B3CFEA?style=for-the-badge&logo=python&logoColor=black&labelColor=B3CFEA)
-![C#](https://img.shields.io/badge/C%23-D4B8E0?style=for-the-badge&logo=csharp&logoColor=black&labelColor=D4B8E0) 
+<b>Frontend:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="absmiddle" src="https://img.shields.io/badge/-React-B8EEFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React" /> <img align="absmiddle" src="https://img.shields.io/badge/-Next.js-DADADA?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=black" alt="Next.js" /> <img align="absmiddle" src="https://img.shields.io/badge/-Three.js-E3E3E3?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=black" alt="Three.js" /> <img align="absmiddle" src="https://img.shields.io/badge/-Tailwind-A8E6EF?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=black" alt="Tailwind" />
 
-**Frontend**
+<b>Backend:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="absmiddle" src="https://img.shields.io/badge/-Node.js-B5E3B0?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=black" alt="Node.js" /> <img align="absmiddle" src="https://img.shields.io/badge/-Express-CFCFCF?style=for-the-badge&amp;logo=express&amp;logoColor=black" alt="Express" /> <img align="absmiddle" src="https://img.shields.io/badge/-MongoDB-A9DCAC?style=for-the-badge&amp;logo=mongodb&amp;logoColor=black" alt="MongoDB" /> <img align="absmiddle" src="https://img.shields.io/badge/-MySQL-A9C9DE?style=for-the-badge&amp;logo=mysql&amp;logoColor=black" alt="MySQL" /> <img align="absmiddle" src="https://img.shields.io/badge/-Supabase-B5EBD1?style=for-the-badge&amp;logo=supabase&amp;logoColor=black" alt="Supabase" />
 
-![React](https://img.shields.io/badge/React-B8EEFB?style=for-the-badge&logo=react&logoColor=black&labelColor=B8EEFB)
-![Next.js](https://img.shields.io/badge/Next.js-DADADA?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=DADADA)
-![Three.js](https://img.shields.io/badge/Three.js-E3E3E3?style=for-the-badge&logo=threedotjs&logoColor=black&labelColor=E3E3E3)
-![Tailwind](https://img.shields.io/badge/Tailwind-A8E6EF?style=for-the-badge&logo=tailwindcss&logoColor=black&labelColor=A8E6EF)
+<b>Tools:</b>  <img align="absmiddle" src="https://img.shields.io/badge/-Blender-FFCF9E?style=for-the-badge&amp;logo=blender&amp;logoColor=black" alt="Blender" /> <img align="absmiddle" src="https://img.shields.io/badge/-Figma-FFB3A1?style=for-the-badge&amp;logo=figma&amp;logoColor=black" alt="Figma" />
 
-**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-B5E3B0?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=B5E3B0)
-![Express](https://img.shields.io/badge/Express-CFCFCF?style=for-the-badge&logo=express&logoColor=black&labelColor=CFCFCF)
-![MongoDB](https://img.shields.io/badge/MongoDB-A9DCAC?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=A9DCAC)
-![MySQL](https://img.shields.io/badge/MySQL-A9C9DE?style=for-the-badge&logo=mysql&logoColor=black&labelColor=A9C9DE)
-![Supabase](https://img.shields.io/badge/Supabase-B5EBD1?style=for-the-badge&logo=supabase&logoColor=black&labelColor=B5EBD1)
-
-**Creative Tools**
-
-![Blender](https://img.shields.io/badge/Blender-FFCF9E?style=for-the-badge&logo=blender&logoColor=black&labelColor=FFCF9E)
-![Figma](https://img.shields.io/badge/Figma-FFB3A1?style=for-the-badge&logo=figma&logoColor=black&labelColor=FFB3A1)
-
-### 💚 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-A9CCF0?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=A9CCF0)](https://www.linkedin.com/in/aliya-syedd/)
-
- 📧 Mail : mahaboobaliya03@gmail.com
-
+<h2>Connect <a href="https://www.linkedin.com/in/aliya-syedd/"><img align="absmiddle" src="https://img.shields.io/badge/-LINKEDIN-A9CCF0?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDAwIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a></h2>
