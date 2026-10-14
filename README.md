@@ -18,12 +18,14 @@ A curious full-stack developer who enjoys turning creative ideas into clean, res
 ![C#](https://img.shields.io/badge/C%23-D4B8E0?style=for-the-badge&logo=csharp&logoColor=black&labelColor=D4B8E0) 
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-B8EEFB?style=for-the-badge&logo=react&logoColor=black&labelColor=B8EEFB)
 ![Next.js](https://img.shields.io/badge/Next.js-DADADA?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=DADADA)
 ![Three.js](https://img.shields.io/badge/Three.js-E3E3E3?style=for-the-badge&logo=threedotjs&logoColor=black&labelColor=E3E3E3)
 ![Tailwind](https://img.shields.io/badge/Tailwind-A8E6EF?style=for-the-badge&logo=tailwindcss&logoColor=black&labelColor=A8E6EF)
 
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-B5E3B0?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=B5E3B0)
 ![Express](https://img.shields.io/badge/Express-CFCFCF?style=for-the-badge&logo=express&logoColor=black&labelColor=CFCFCF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-A9DCAC?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=A9DCAC)
@@ -31,6 +33,7 @@ A curious full-stack developer who enjoys turning creative ideas into clean, res
 ![Supabase](https://img.shields.io/badge/Supabase-B5EBD1?style=for-the-badge&logo=supabase&logoColor=black&labelColor=B5EBD1)
 
 **Creative Tools**
+
 ![Blender](https://img.shields.io/badge/Blender-FFCF9E?style=for-the-badge&logo=blender&logoColor=black&labelColor=FFCF9E)
 ![Figma](https://img.shields.io/badge/Figma-FFB3A1?style=for-the-badge&logo=figma&logoColor=black&labelColor=FFB3A1)
 
