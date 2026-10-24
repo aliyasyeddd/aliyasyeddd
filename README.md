@@ -5,7 +5,6 @@ A curious full-stack developer who enjoys turning creative ideas into clean, res
 ## 🌱 About Me
 - 💻 Full-stack developer, working across frontend and backend
 - 🎨 I use Figma and Blender for the creative side
--  Currently learning C#
 
 ## Tech Stack
 
