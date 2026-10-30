@@ -3,8 +3,8 @@
 A curious full-stack developer who enjoys turning creative ideas into clean, responsive, user-focused interfaces.
 
 ## 🌱 About Me
-- 💻 Full-stack developer, working across frontend and backend
-- 🎨 I use Figma and Blender for the creative side
+- 💻 Full-stack developer, working across frontend and backend.
+- 🎨 I use Figma and Blender for the creative side.
 
 ## Tech Stack
 
